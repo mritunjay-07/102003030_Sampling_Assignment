@@ -2,11 +2,11 @@
 By: **MRITUNJAY-102003030**
 
 ## Overview
-*Sampling is a method that allows us to get information about the population based on the statistics from a subset of the population (sample), without having to investigate every individual.
-*Sampling is done to draw conclusions about populations from samples, and it enables us to determine a population’s characteristics by directly observing only a portion (or sample) of the population. 
-  *Selecting a sample requires less time than selecting every item in a population
-  *Sample selection is a cost-efficient method
-  *Analysis of the sample is less cumbersome and more practical than an analysis of the entire population
+* Sampling is a method that allows us to get information about the population based on the statistics from a subset of the population (sample), without having to investigate every individual.
+* Sampling is done to draw conclusions about populations from samples, and it enables us to determine a population’s characteristics by directly observing only a portion (or sample) of the population. 
+  * Selecting a sample requires less time than selecting every item in a population
+  * Sample selection is a cost-efficient method
+  * Analysis of the sample is less cumbersome and more practical than an analysis of the entire population
 
 ## **Models Used**
 The five different models used for predicting results are:
