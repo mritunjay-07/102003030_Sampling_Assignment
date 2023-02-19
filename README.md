@@ -2,7 +2,7 @@
 
 
 
-**Models Used**
+## **Models Used**
 The five different models used for predicting results are:
 1. M1->Logistic Regression
 2. M2->Support Vector Machine
@@ -10,7 +10,7 @@ The five different models used for predicting results are:
 4. M4->Gaussian Naive Bayes
 5. M5->KNeighbors
 
-### ** Result Obtained After Applying Five Different Models on Five Different Samples **
+### Result Obtained After Applying Five Different Models on Five Different Samples 
 
   ||Sample 1|Sample 2|Sample 3|Sample 4|Sample 5|
   | :----: |:--------------------:|:------------:|:------------:|:---------------:|:---------------:|
