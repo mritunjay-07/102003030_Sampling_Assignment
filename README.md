@@ -34,15 +34,15 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## **STEP-3: CREATION OF FIVE DIFFERENT SAMPLES USING DIFFERENT SAMPLING TECHNIQUES**
 * **For obtaining five different samples, I have used five different techniques. These are:**
-  1. **For Sample 1-->Stratified Sampling**
+  1. **For Sample 1->Stratified Sampling**
      * Stratified sampling is a sampling method in which the population is divided into homogeneous subgroups, called strata, and a random sample is taken from each stratum to ensure proportional representation of each subgroup in the sample.  
-  2. **For Sample 2-->Systematic Sampling**
+  2. **For Sample 2->Systematic Sampling**
      * Systematic sampling is a statistical sampling method in which every k-th item in the population is selected for the sample, where k is a fixed interval calculated by dividing the population size by the desired sample size.
-  3. **For Sample 3-->Convenience Sampling**
+  3. **For Sample 3->Convenience Sampling**
      * Convenience sampling is a non-probability sampling technique in which participants are selected based on their availability and willingness to participate, rather than through a random or systematic selection process, leading to a non-representative sample.
-  4. **For Sample 4-->Cluster Sampling**
+  4. **For Sample 4->Cluster Sampling**
      * Cluster sampling is a sampling technique in which the population is divided into clusters, and a random sample of clusters is selected for inclusion in the sample, with all members of the selected clusters included in the sample, which can save time and cost in data collection.
-  5. **For Sample 5-->Simple Random Sampling**
+  5. **For Sample 5->Simple Random Sampling**
      * Simple random sampling is a statistical sampling method in which each member of the population has an equal chance of being selected for the sample, and each sample of the same size has an equal chance of being selected, ensuring representativeness and reducing bias.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## **STEP-4: APPLYING FIVE DIFFERENT MODELS**
