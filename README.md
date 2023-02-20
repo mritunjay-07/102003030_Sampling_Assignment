@@ -59,7 +59,7 @@
      * K-Nearest Neighbors (KNN) is a machine learning algorithm that can be used for both classification and regression, which predicts the label or value of a new observation by finding the k-nearest neighbors in the training set and taking a weighted average of their values, making it easy to understand and interpret, but computationally expensive for large datasets.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ## **STEP-5: ACCURACY TABLE**
-**Result Obtained After Applying Five Different Models on Five Different Samples** 
+**Results Obtained After Applying Five Different Models on Five Different Samples** 
  
  ||Sample 1|Sample 2|Sample 3|Sample 4|Sample 5|
   | :----: |:--------------------:|:------------:|:------------:|:---------------:|:---------------:|
